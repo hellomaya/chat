@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "636033785007",
+    "firebase_url": "https://firecha-56402.firebaseio.com",
+    "project_id": "firecha-56402",
+    "storage_bucket": "firecha-56402.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636033785007:android:fca7c3dbcee40924",
+        "android_client_info": {
+          "package_name": "com.twiliochatjsreactnative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636033785007-e73bggtoiaml87opu20m6g3khr4v66n8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEAYFCyRrA_JGGexLV70lb6SdrgMqBhCY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

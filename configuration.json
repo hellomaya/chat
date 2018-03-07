@@ -1,0 +1,17 @@
+{
+  "chatClient": {
+    "options": {
+      "logLevel": "info"
+    }
+  },
+  "tokenGenerator": {
+    "accountSid": "ACacbca06fa675c564b505bab64fae9433",
+    "signingKeySid": "SKdd43d9927b03d9e7702761e0e4533274",
+    "signingKeySecret": "E96gTfstW6Mh9FGsuC6RxsWvqbOBXnjb",
+    "serviceSid": "IS96795ec426504f5c85ca3b7269f265c8",
+    "fcm": "CRxxx",
+    "apns": "CRxxx"
+  },
+  "ngrokSubdomain": "somengroksubdomain"
+}
+

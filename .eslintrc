@@ -1,0 +1,54 @@
+{
+  "extends": "airbnb",
+  "parser": "babel-eslint",
+  "rules": {
+    // not necessary, as it point out the method could be static
+    "class-methods-use-this": [
+      "off"
+    ],
+    "no-undef": [
+      "off"
+    ],
+    "no-alert": [
+      "off"
+    ],
+    "react/prefer-stateless-function": [
+      "off"
+    ],
+    "no-loop-func": [
+      "off"
+    ],
+    "no-mixed-operators": [
+      "off"
+    ],
+    "strict": [
+      "off"
+    ],
+    "prefer-destructuring": [
+      "off"
+    ],
+    "no-restricted-globals": [
+      "off"
+    ],
+    "import/no-duplicates": [
+      "off"
+    ],
+    // could use it partially
+    //"global-require": ["off"],
+    // by using jsx in js, also fine in common sense
+    "react/jsx-filename-extension": [
+      "off"
+    ],
+    "react/forbid-prop-types": [
+      "off"
+    ],
+    "react/jsx-curly-brace-presence": [
+      "off"
+    ],
+    // sometimes, by using peer dependence is fine
+    "import/no-extraneous-dependencies": [
+      "off"
+    ]
+  }
+}
+

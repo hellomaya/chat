@@ -1,0 +1,53 @@
+{
+  "name": "TwilioChatJsReactNative",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "token-provider": "node app.js"
+  },
+  "dependencies": {
+    "app-data": "file:app/module-data",
+    "app-redux": "file:app/module-redux",
+    "app-service": "file:app/module-service",
+    "app-style": "file:app/module-style",
+    "babel-runtime": "^6.26.0",
+    "bluebird": "^3.5.1",
+    "buffer": "^5.0.7",
+    "es6-shim": "^0.35.3",
+    "events": "^1.1.1",
+    "firebase": "^4.9.0",
+    "prop-types": "^15.6.0",
+    "react": "^16.0.0-alpha.12",
+    "react-native": "0.45.1",
+    "react-native-button": "^2.2.0",
+    "react-native-vector-icons": "^4.5.0",
+    "react-navigation": "^1.0.0-beta.27",
+    "react-redux": "^5.0.6",
+    "redux": "^3.7.2",
+    "redux-thunk": "^2.2.0",
+    "twilio-chat": "^2.1.0",
+    "twilio-common": "^0.1.7",
+    "util": "^0.10.3"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.1",
+    "babel-jest": "20.0.3",
+    "babel-preset-react-native": "2.0.0",
+    "body-parser": "^1.18.2",
+    "eslint": "^4.16.0",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.6.0",
+    "express": "^4.16.2",
+    "jest": "20.0.4",
+    "ngrok": "^2.2.24",
+    "react-test-renderer": "^16.2.0",
+    "redux-logger": "^3.0.6",
+    "twilio": "^3.11.0"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
