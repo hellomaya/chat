@@ -12,5 +12,12 @@ The code of twilio chat is from their official react native example.
 
 ## Progress
 
+The official twilio react native example already upgrade to 0.53.x and this is not updated yet.
+
+@todo
+
+- upgrade react native to 0.53+
+- upgrade twilio chat module 
+
 
 
